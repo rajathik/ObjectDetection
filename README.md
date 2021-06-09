@@ -1,4 +1,4 @@
-# RUHSNet: 3D Object Detection Using Lidar Data in Real Time
+# 3D Object Detection Using Lidar Data in Real Time
 Code for the paper `RUHSNet: 3D Object Detection Using Lidar Data in
 Real Time`.
 
